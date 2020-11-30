@@ -13,7 +13,7 @@ passengers.each do |a,b|
   if a == :suite_a && b.start_with?("A")
     winner=b
   end
-  winner
+  
  end
-
+winner
 end
